@@ -11,7 +11,7 @@ Just run the `classifiers.m`
 ## Result
 
 Here is the result with samples number = 1000, class = 3 (hard code)
-![result](https://raw.githubusercontent.com/timmy00274672/FaceRecogByFastICA/master/result/result.jpg)
+![result](https://raw.githubusercontent.com/timmy00274672/BayesClassifier/master/result/result.jpg)
 
 ```
 Use Bayesian classification rule to classify, the miss rate is :0.008
